@@ -1,4 +1,5 @@
 # Hello young warlocks, i am glad you are here
+* I am Ugo, short for Ugonna
 * I'm a curious individual driven by a relentless desire to explore new technologies and learn continuously. My insatiable appetite for knowledge fuels my journey in the ever-evolving world of tech.
 
 * With a diverse skill set, I'm a jack of many trades, proficient in HTML, CSS, and a plethora of other web technologies. 
