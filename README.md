@@ -8,6 +8,8 @@ Come along on my journey as I embrace the unknown, master new technologies, and 
 
 # contact:
 * Gmail: ugonnadike001@gmail.com
-  
+ :computer: Interests -- Web, Blockchain, Cloud Computing, Game-development, Anime, Music.
+* Version Control and Development tools used:
+  :github:
  
   
