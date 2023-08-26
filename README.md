@@ -7,7 +7,7 @@ I embrace each task with enthusiasm and commitment,  to delivering the best.
 Come along on my journey as I embrace the unknown, master new technologies, and strive to make a meaningful impact in the world of tech
 
 # contact:
-* ugox.netlify.app/
+* Portfolio: ugox.netlify.app/
 * Gmail: ugonnadike001@gmail.com
 * :computer: Interests -- Web, Blockchain, Cloud Computing, Game-development, Anime, Music.
 
