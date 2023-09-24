@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugo short for Ugonna</h1>
-<h3 align="center">I'm a curious individual driven by a relentless desire to explore new technologies and learn continuously.</h3>
+<h4 align="center">I'm a curious individual driven by a relentless desire to explore new technologies and learn continuously.
+My insatiable appetite for knowledge fuels my journey in the ever-evolving world of tech.  With a diverse skill set, I'm a jack of many trades, proficient in HTML, CSS, JavaScript and a plethora of other web technologies. I embrace each task with enthusiasm and commitment, to delivering the best. Come along on my journey as I embrace the unknown, master new technologies, and strive to make a meaningful impact in the world of tech
+</h4>
 
 
 <img  align="right"   alt="coding" width="400"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
