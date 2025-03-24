@@ -9,7 +9,7 @@ My insatiable appetite for knowledge fuels my journey in the ever-evolving world
 
 - 🌱 I'm currently **watching movies and growing older**
 
-- 👨‍💻 I'm a **freelancer at [OnlyDust](https://app.onlydust.com/u/Ugo-X)**
+- 👨‍💻 I'm an **Open Source Contributor at [OnlyDust](https://app.onlydust.com/u/Ugo-X)**
 
 - 💬 Ask me about **Animes**
 
